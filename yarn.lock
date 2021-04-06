@@ -51,10 +51,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/mongodb@^3.5.28":
-  version "3.5.28"
-  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.5.28.tgz#33428f358b31d0c78651a2aa6f8bb46d58b2849e"
-  integrity sha512-wSbda4QQ3QFsWUHJzC5TSYImtRDtPhPb+lW7ICMtWvvtQMQRXbVTz/Z1P5A3XujK5bZIAV7vk5CXQG6Adz7+Cw==
+"@types/mongodb@^3.6.12":
+  version "3.6.12"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.6.12.tgz#727960d34f35054d2f2ce68909e16094f742d935"
+  integrity sha512-49aEzQD5VdHPxyd5dRyQdqEveAg9LanwrH8RQipnMuulwzKmODXIZRp0umtxi1eBUfEusRkoy8AVOMr+kVuFog==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
